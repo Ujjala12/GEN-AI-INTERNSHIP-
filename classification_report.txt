@@ -1,0 +1,18 @@
+               precision    recall  f1-score   support
+
+     Business       1.00      1.00      1.00        11
+        Crime       1.00      1.00      1.00        10
+    Education       1.00      1.00      1.00        11
+Entertainment       1.00      1.00      1.00        10
+       Health       1.00      1.00      1.00        10
+     Politics       1.00      1.00      1.00        11
+       Sports       1.00      1.00      1.00        11
+   Technology       1.00      1.00      1.00        10
+      Weather       1.00      1.00      1.00        10
+
+     accuracy                           1.00        94
+    macro avg       1.00      1.00      1.00        94
+ weighted avg       1.00      1.00      1.00        94
+
+
+Accuracy: 100.00%
